@@ -2,14 +2,13 @@
 Hi 👋, I'm Salma Abdulkader!
 ========================================================================================================================================
 
-I graduated from the Faculty of Computers and Artificial Intelligence, Benha University
+I graduated from the Faculty of Computers and Artificial Intelligence, Benha University.
 
 * 🤝  I'm open to collaborating on Open Source Projects
 * 🌍  I'm based in Egypt
 * 🌱 I’m passionate about Machine Learning, Deep Learning, and building AI-powered solutions
 * ⚡  I love coding and developing projects for fun :)
 * ✉️  You can contact me at [salma.ahmd.k1678@gmail.com](mailto:salma.ahmd.k1678@gmail.com)
-
 
 <a href="https://www.github.com/salmaahmed2828" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/salmaahmed2828?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -26,11 +25,10 @@ src="https://img.shields.io/github/followers/salmaahmed2828?logo=github&style=fo
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
-
 ## 🌐 Socials:
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/salma-abdulkader-53a95491" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/salmaabdulkader" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   <a href="https://www.instagram.com/salma_abdulkader_" target="_blank" rel="noreferrer">
@@ -46,9 +44,7 @@ src="https://img.shields.io/github/followers/salmaahmed2828?logo=github&style=fo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salmaahmed2828&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmaahmed2828&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
 <b>Top Repositories</b>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salmaahmed2828&theme=swift&no-frame=false&no-bg=true&margin-w=4)
