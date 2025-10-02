@@ -28,7 +28,7 @@ Scikit-Learn | NumPy | Pandas | Matplotlib | Seaborn | OpenCV
 TensorFlow | PyTorch | Keras | HuggingFace Transformers  
 
 ### 🚀 Deployment & MLOps
-Streamlit | Flask | FastAPI | Docker | MLFlow | DVC | CI/CD  
+Streamlit | Flask | FastAPI | Docker | MLFlow
 
 ### 📊 Data Analysis & Business Intelligence
 SQL | MySQL | Excel | Power BI | Statistics | Time Series Analysis  
