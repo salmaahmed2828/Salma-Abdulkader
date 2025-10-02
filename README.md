@@ -11,7 +11,6 @@
 ## 🌐 Connect with me
 
 - LinkedIn: [Salma Abdulkader](https://www.linkedin.com/in/salmaabdulkader)  
-- GitHub: [salmaahmed2828](https://www.github.com/salmaahmed2828)  
 - Instagram: [salma_abdulkader_](https://www.instagram.com/salma_abdulkader_)  
 - Facebook: [Salma Facebook](https://www.facebook.com/share/17D6T1f9ua/)
 
