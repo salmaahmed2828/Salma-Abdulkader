@@ -47,16 +47,4 @@ Linux | Ubuntu | Windows
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=salmaahmed2828&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=salmaahmed2828&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmaahmed2828&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=salmaahmed2828&icon=4&color=1)](https://visitcount.itsvg.in)
