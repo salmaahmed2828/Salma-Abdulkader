@@ -1,5 +1,5 @@
 # Hi 👋, I'm Salma Abdulkader
-**"Junior Machine Learning & Deep Learning Specialist"**
+**"NTI Graduate | Junior Data Scientist"**
 
 🌱 I’m passionate about Machine Learning, Deep Learning, Computer Vision, and NLP  
 ⚡ I love coding, experimenting, and building AI-powered projects  
