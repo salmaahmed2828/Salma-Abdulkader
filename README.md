@@ -9,8 +9,7 @@
 ---
 
 ## 🌐 Connect with me
-
-- LinkedIn: [Salma Abdulkader](https://www.linkedin.com/in/salmaabdulkader)  
-- Instagram: [salma_abdulkader_](https://www.instagram.com/salma_abdulkader_)  
-- Facebook: [Salma Facebook](https://www.facebook.com/share/17D6T1f9ua/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmaabdulkader)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salma_abdulkader_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17D6T1f9ua/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmaahmed2828)
